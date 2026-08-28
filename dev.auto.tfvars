@@ -1,1 +1,1 @@
-resource_group_name = ["dev-rg","prod-rg","uat-rg","test-rg"]
+resource_group_name = ["dev-rg","prod-rg","uat-rg",]
